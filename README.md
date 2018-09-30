@@ -28,7 +28,10 @@ $~> python Lin-Odikko_v1.0.py
 - Browsing with auto adjusted delays to imitate a genuine user
 - Search for particular keywords, and visit related profiles
 - Sent inivitations randomly to the visited profiles
-- Exit cleaning after browsing a given number of profiles
+- Clean exit after browsing a given number of profiles
+
+## Disclaimer
+Caution: Fair Usage Policy ;)
 
 ## Credits
 Created By Subin Varghese
