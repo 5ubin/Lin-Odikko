@@ -1,13 +1,20 @@
 # Lin-Odikko
+Lin-Odikko is a powerful LinkedIn profile browser and invitation automater based out of python 3. It uses Selenium for automation using Mozilla Firefox browser with python3.
 
-A powerful LinkedIn profile browser and invitation automater based out of python 3.
+## Why Lin-Odikko
+- Increase LinkedIn profile popularity and search visiblity using AI automated bot. 
+- Lin-Odikko script helps to browse through particular keywords & similar intrested profiles without any user interaction.
+- Increase LinkedIn connections without hazzle of manually senting invites (*Beta)
+
+## Release
+- v1.0 - Initial version - 29/9/18
 
 ## Requirements
 - Python 3
 - Selenium
 - BeautifulSoup
 - Mozilla Firefox
-- Geckodriver for Windows
+- Geckodriver for Windows (https://github.com/mozilla/geckodriver/releases/tag/v0.22.0)
 
 ## How to Run?
 ### Intial Install
@@ -24,4 +31,8 @@ $~> python Lin-Odikko_v1.0.py
 - Exit cleaning after browsing a given number of profiles
 
 ## Credits
-Created By Subin Varghese [www.5ub.in]
+Created By Subin Varghese
+- LinkedIn - https://www.linkedin.com/in/5ubin/
+- Website - https://www.5ub.in
+- Blog - https://wwww.5ub.in/blog
+
