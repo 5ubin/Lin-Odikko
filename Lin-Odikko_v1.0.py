@@ -1,6 +1,6 @@
 ##################################################################################
 #\                      Lin-Odikko V1.0 - 29/9/2018                             \#
-#\          Created By Subin Varghese [www.5ub.in \\ me@5ub.in]                 \#
+#\          Created By Subin Varghese [www.5ub.in]                 		\#
 #\                        ❤ with Python & Life                                 \#
 #\                                                                              \#
 ##################################################################################
@@ -23,17 +23,17 @@ print("""\
   / /   / / __ \______/ / / / __  / / //_/ //_/ __ \
  / /___/ / / / /_____/ /_/ / /_/ / / ,< / ,< / /_/ /
 /_____/_/_/ /_/      \____/\__,_/_/_/|_/_/|_|\____/                                              
-..... (¯`v´¯)♥---- Version 1.0 © www.5ub.in // Date:29/9/18 ---------------------------------------------
+..... (¯`v´¯)♥---- Version 1.0 © www.5ub.in // Date:29/9/18 -------------------------
 .......•.¸.•´
 ....¸.•´    
-... (   For You, My Love!!!    
+... (  This 4 U, My Love!!!    
  ☻/
 /▌♥♥
 / \ ♥♥ 
                     """)
 
 email = input("[?] Enter your account email: ")
-password = getpass.getpass("[?] Enter your account password: ") # Pedikenda Safe Annu Bro!!!
+password = getpass.getpass("[?] Enter your account password: ") # Pedikenda Its Secure!!!
 no_of_profiles = int(input("[?] Enter how many LinkedIn profiles you wish to view? (Approx): "))
 keyword = input("[?] Enter your search term: ")
 inv = input("[?] Sent invites to them? (*Beta) [Y/N]: ")
