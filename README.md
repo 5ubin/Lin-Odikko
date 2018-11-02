@@ -8,6 +8,7 @@ Lin-Odikko is a powerful LinkedIn profile browser and invitation automater based
 
 ## Release
 - v1.0 - Initial version - 29/9/18
+- v1.1 - Bug Fixes       - 02/11/18
 
 ## Requirements
 - Python 3
